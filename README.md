@@ -22,9 +22,4 @@ Este repositório contém os arquivos e a documentação do Trabalho Final da di
 
 ---
 
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/sistema-academia-bd2.git
 
