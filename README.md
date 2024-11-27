@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Academia - BD II
+# Sistema de Gerenciamento de Academia  - BD II
 
 Este repositório contém os arquivos e a documentação do Trabalho Final da disciplina **Banco de Dados II** no Instituto Federal Catarinense.
 
@@ -21,9 +21,6 @@ Este repositório contém os arquivos e a documentação do Trabalho Final da di
 - `docs/documentacao-trabalho-final-bd2.docx`: Documento detalhado do projeto.
 
 ---
-
-<<<<<<< HEAD
-=======
 ## Banco de Dados
 
 - **Banco de Dados**: PostgreSQL
@@ -38,5 +35,4 @@ Caso precise configurar o PostgreSQL, siga os passos abaixo:
    ```bash
    sudo apt update
    sudo apt install postgresql postgresql-contrib
->>>>>>> 2ae015f (Atualiza README com informações sobre o banco de dados PostgreSQL e versão)
 
