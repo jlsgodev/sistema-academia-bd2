@@ -22,4 +22,21 @@ Este repositório contém os arquivos e a documentação do Trabalho Final da di
 
 ---
 
+<<<<<<< HEAD
+=======
+## Banco de Dados
+
+- **Banco de Dados**: PostgreSQL
+- **Versão**: 16.4
+- **Sistema Operacional**: Ubuntu 24.04
+- **Ferramentas de Banco de Dados**: pgAdmin, psql
+
+### Como Configurar o Banco de Dados
+Caso precise configurar o PostgreSQL, siga os passos abaixo:
+
+ **Instalar o PostgreSQL**:
+   ```bash
+   sudo apt update
+   sudo apt install postgresql postgresql-contrib
+>>>>>>> 2ae015f (Atualiza README com informações sobre o banco de dados PostgreSQL e versão)
 
