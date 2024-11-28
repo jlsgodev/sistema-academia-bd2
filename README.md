@@ -6,7 +6,7 @@ Este repositório contém os arquivos e a documentação do Trabalho Final da di
 
 ### Diretórios
 - `sql/`: Scripts SQL organizados por funcionalidade.
-- `docs/`: Documentação complementar.
+- `docs/`: Documentação complementar, incluindo o modelo conceitual e o modelo lógico.
 
 ### Scripts SQL
 1. **01-schema.sql**: Criação do esquema e tabelas.
